@@ -89,8 +89,8 @@ const Contact = () => {
                       <Mail className="h-6 w-6 text-pink-600" />
                     </div>
                     <div>
-                      <p className="font-bold text-gray-900">Écrivez-nous</p>
-                      <p className="text-gray-900">bonjour@cousuavecamour.com</p>
+                      <h3 className="text-lg font-semibold text-gray-800 mb-2">Email</h3>
+                      <p className="text-gray-600">Filetcreations91@gmail.com</p>
                     </div>
                   </div>
                   
@@ -99,8 +99,8 @@ const Contact = () => {
                       <Phone className="h-6 w-6 text-pink-600" />
                     </div>
                     <div>
-                      <p className="font-bold text-gray-900">Appelez-nous</p>
-                      <p className="text-gray-900">+33 1 23 45 67 89</p>
+                      <h3 className="text-lg font-semibold text-gray-800 mb-2">Téléphone</h3>
+                      <p className="text-gray-600">06 61 04 05 38</p>
                     </div>
                   </div>
                 </div>
