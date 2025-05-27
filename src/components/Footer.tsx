@@ -58,7 +58,6 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-600">
               <li>bonjour@fil-et-creations.com</li>
               <li>+33 1 23 45 67 89</li>
-              <li>123 Rue de l'Artisanat<br />Paris, France</li>
             </ul>
           </div>
         </div>
