@@ -1,4 +1,3 @@
-
 import { Heart, Facebook, Instagram, Twitter } from 'lucide-react';
 
 const Footer = () => {
@@ -11,7 +10,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-6 w-6 text-pink-500 fill-current" />
               <h3 className="text-xl font-serif font-bold text-gradient">
-                Cousu avec Amour
+                Fil&Créations
               </h3>
             </div>
             <p className="text-gray-600 mb-4">
@@ -57,7 +56,7 @@ const Footer = () => {
           <div>
             <h4 className="font-serif font-semibold text-gray-800 mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-600">
-              <li>bonjour@cousuavecamour.com</li>
+              <li>bonjour@fil-et-creations.com</li>
               <li>+33 1 23 45 67 89</li>
               <li>123 Rue de l'Artisanat<br />Paris, France</li>
             </ul>
@@ -66,7 +65,7 @@ const Footer = () => {
 
         <div className="border-t border-pink-200 mt-8 pt-8 text-center">
           <p className="text-gray-600">
-            © 2024 Cousu avec Amour. Fait avec <Heart className="h-4 w-4 text-pink-500 fill-current inline mx-1" /> et beaucoup de fil.
+            © 2024 Fil&Créations. Fait avec <Heart className="h-4 w-4 text-pink-500 fill-current inline mx-1" /> et beaucoup de fil.
           </p>
         </div>
       </div>
